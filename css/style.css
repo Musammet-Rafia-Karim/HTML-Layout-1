@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	background-color: violet;
+	height: 100px;
+	margin-bottom: 30px;
+}
+
+.content{
+	overflow: hidden;
+	margin-bottom: 30px;
+}
+
+.nav{
+	background-color: violet;
+	width: 20%;
+	height: 400px;
+	float: left;
+}
+
+.article{
+	background-color: violet;
+	width: 55%;
+	height: 400px;
+	float: left;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+.ad{
+	background-color: violet;
+	width: 20%;
+	height: 400px;
+	float: right;
+}
+
+footer{
+	background-color: violet;
+	height: 100px;
+}
